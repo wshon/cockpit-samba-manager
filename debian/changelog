@@ -1,3 +1,9 @@
+cockpit-samba-manager (1.0.7-1focal) focal; urgency=high
+
+  * Fix CSS for Cockpit 273 and greater.
+
+ -- wshon <me@wshon.com>  Sun, 12 Feb 2023 15:23:00 -0400
+
 cockpit-samba-manager (1.0.6-1focal) focal; urgency=high
 
   * Fix bug where users and shares are duplicated in lists on editing global.

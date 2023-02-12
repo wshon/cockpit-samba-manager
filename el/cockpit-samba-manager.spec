@@ -32,6 +32,9 @@ rm -rf %{buildroot}
 /usr/share/cockpit/samba-manager/*
 
 %changelog
+* Sun Feb 12 2023 wshon <me@wshon.com> 1.0.7-1
+- Fix CSS for Cockpit 273 and greater.
+
 * Wed May 12 2021 Josh Boudreau <jboudreau@45drives.com> 1.0.6-1
 - Fix bug where users and shares are duplicated in lists on editing global.
 
